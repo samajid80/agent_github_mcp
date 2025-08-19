@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+1_session_multi_turn.py
+2_persistent_session.py
+3_session_complete.py
+conversation.db
+GITHUB_MCP_GUIDE.md
+conversation_history.db
+advanced_github_mcp_example.py
+github_mcp_tools_example.py
+weather_example.py
+specific_github_tools.py
+
